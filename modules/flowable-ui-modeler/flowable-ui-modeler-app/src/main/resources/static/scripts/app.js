@@ -150,7 +150,7 @@ flowableModeler
         angular translate language key.
         */
         // .registerAvailableLanguageKeys(['en'], {
-        //     'en-*': 'en'
+        //     'en-*': 'zh-CN'
         // })
         .useSanitizeValueStrategy('escapeParameters')
         .uniformLanguageTag('bcp47')

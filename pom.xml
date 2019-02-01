@@ -983,6 +983,26 @@
 		<module>modules/flowable-engine</module>
 		<module>modules/flowable-app-engine-api</module>
 		<module>modules/flowable-app-engine</module>
+
+		<!-- 修改部分-->
+		<module>modules/flowable-idm-rest</module>
+		<module>modules/flowable-idm-spring</module>
+		<module>modules/flowable-idm-spring-configurator</module>
+
+		<module>modules/flowable-spring-boot</module>
+		<module>modules/flowable-spring</module>
+		<module>modules/flowable-spring-common</module>
+		<module>modules/flowable-spring-configurator</module>
+
+		<module>modules/flowable-engine-configurator</module>
+		<module>modules/flowable-app-engine-spring</module>
+		<module>modules/flowable-app-engine-rest</module>
+		<module>modules/flowable-app-rest</module>
+		<module>modules/flowable-rest</module>
+		<module>modules/flowable-http</module>
+		<module>modules/flowable-json-converter</module>
+		<module>modules/flowable-ldap</module>
+		<module>modules/flowable-ldap-configurator</module>
 	</modules>
 
 	<build>
