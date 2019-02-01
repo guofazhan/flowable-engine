@@ -17,6 +17,11 @@
     <modules>
         <module>flowable-spring-boot-starters</module>
         <module>flowable-spring-boot-samples</module>
+        <module>../flowable-ui-task</module>
+        <module>../flowable-ui-idm</module>
+        <module>../flowable-ui-admin</module>
+        <module>../flowable-ui-modeler</module>
+        <module>../flowable-ui-common</module>
     </modules>
 
     <properties>
